@@ -1,32 +1,15 @@
 ### Hi there 👋
-Noah is an individual that values proper allocation of time…
 
+My name is Noah-- and I'm on a mission to upend the solar system through the integration of business and technology. 
 
-As a Venture Capital Analyst, Noah learned:
--the sky is the limit
--don’t settle for complacency 
--now on the journey to techpreneur
+This past summer, I worked at an innovative venture capital firm and was given the opportunity to work alongside some of the most exciting technologies of our future. 
 
-Currently:
--self-teaching programming
--founder of Ascent Window cleaning
--finishing Business Associates
--enrolled in Tech Elevator May cohort 
+During this, an undeniable urge kept growing inside me, **I needed to be a part of this as soon as possible!** 
 
-Enjoys:
--building equity in in oneself/others
--entrepreneurship podcasts
--reading
--attending clubs
--total immersement in nature 
--LEARNING EVERYDAY!
+Thus, I put my college journey on hiatus, enrolled in a software engineering bootcamp, and am now learning to build the technology of the future.
 
-Also Enjoys:
--talking to EVERYONE and hearing their stories 
--failing 
--aquiring new skills
--Being a light in a world full of darkness
+In my spare time, I enjoy studying history's greatest entrepreneurs, exploring all aspects of the world through the lens of business, and discovering the inefficiencies of humanitarian efforts. 
 
-Looking for a job as a:
--Full stack software engineer 
--August 2023 
+I'll be graduating from my boot camp this August, and am searching for high-impact jr. software engineering roles.
+
+Interested in chatting? Send a direct message or reach out at noah24olsen@gmail(dot)com
